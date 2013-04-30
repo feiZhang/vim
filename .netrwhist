@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Volumes/data/Dropbox/job/50/yanglaoyuan/Public/public'
+let g:netrw_dirhist_2='/Volumes/data/Google 云端硬盘/voip/myself/pppmy'
+let g:netrw_dirhist_3='/Volumes/data/Dropbox/job/VisualEvent'
+let g:netrw_dirhist_4='/Volumes/data/Dropbox'
